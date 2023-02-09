@@ -59,7 +59,6 @@ public class DataGenerator {
             sendRequest(registeredUser);
             return registeredUser;
         }
-
     }
 
     @Value
